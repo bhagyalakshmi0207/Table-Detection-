@@ -1,2 +1,2 @@
 # Table-Detection-
-Table Detection Analysis
+Table Detection Analysis using Hugging Face
